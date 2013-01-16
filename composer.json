@@ -25,7 +25,7 @@
   "suggest": {
     "ext-gd": "Might be needed depending on the chosen Image implementation",
     "ext-imagick": "Might be needed depending on the chosen Image implementation",
-    "ext-gmagic": "Might be needed depending on the chosen Image implementation",
+    "ext-gmagic": "Might be needed depending on the chosen Image implementation"
   },
   "require-dev": {
     "sami/sami": "dev-master"
